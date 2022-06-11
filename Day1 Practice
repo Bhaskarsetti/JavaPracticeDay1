@@ -2,13 +2,7 @@ package TrailJavaPractice;
 import java.util.*;
 
  public class Practice1 {
-	 final static Integer Mobile = 9885; 
-	 // uniq data and not modify
-	 //static is a universl acces
-	/* abstract void Call() {
-		 abstract float area();
-	 }
-	*/
+	
 	public void Hello() {
 		// Mobile = 9558; con't change due it was final fixed value
 		
